@@ -1,5 +1,5 @@
 # 19CS301-Module-4
-ExNo.4a DICTIONARY
+ExNo.4(a) DICTIONARY
 ### AIM
 To write a  program for Sorting the Keys and Values in alphabetical using Dictionary  value.
 ### ALGORITHM
@@ -81,7 +81,7 @@ except:
 ### RESULT
 Thus the python program for handling exceptions was implemented and executed successfully.
 
-EXNo.4C File Handling
+EXNo.4(c) File Handling
 ### AIM
 To write a Python program to read a file and count the frequency of each character in it.
 ### ALGORITHM
